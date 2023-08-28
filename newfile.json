@@ -1,0 +1,73 @@
+[
+    {
+      "id": "6e9f51c1-6b45-440f-af5a-2abc96cd083d",
+      "categoryName": "Sleeping Bags",
+      "name": "Vareno Sleeping Bag (6') Turmeric",
+      "price": 120.00,
+      "closeout": true,
+      "manufacturer": {
+        "name": "Vareno"
+      },
+      "tags": [
+        { "name": "Color Group: Yellow" },
+        { "name": "Bag Shape: Mummy" }
+      ]
+    },
+    {
+      "id": "2a794e22-9a87-4cfd-82d9-75b02c0d7e5f",
+      "categoryName": "Tents",
+      "name": "OutdoorPro Tent (4-Person) Blue",
+      "price": 249.99,
+      "closeout": false,
+      "manufacturer": {
+        "name": "OutdoorPro"
+      },
+      "tags": [
+        { "name": "Color: Blue" },
+        { "name": "Capacity: 4-Person" }
+      ]
+    },
+    {
+      "id": "b0e318a9-1b3a-46a5-b819-eb43f7254b56",
+      "categoryName": "Backpacks",
+      "name": "TrailBlaze Hiking Backpack (45L) Black",
+      "price": 89.99,
+      "closeout": false,
+      "manufacturer": {
+        "name": "TrailBlaze"
+      },
+      "tags": [
+        { "name": "Color: Black" },
+        { "name": "Capacity: 45L" }
+      ]
+    },
+    {
+      "id": "9d48df4c-1b86-4f6f-ae5a-cd67abed5e94",
+      "categoryName": "Camping Stoves",
+      "name": "EverFlame Portable Camping Stove",
+      "price": 39.99,
+      "closeout": true,
+      "manufacturer": {
+        "name": "EverFlame"
+      },
+      "tags": [
+        { "name": "Fuel Type: Propane" },
+        { "name": "Weight: 2 lbs" }
+      ]
+    },
+    {
+      "id": "3f1e984a-8c61-47d6-98a6-d4b8470d0e79",
+      "categoryName": "Camp Chairs",
+      "name": "CozyRest Camping Chair with Cooler",
+      "price": 49.99,
+      "closeout": false,
+      "manufacturer": {
+        "name": "CozyRest"
+      },
+      "tags": [
+        { "name": "Color: Green" },
+        { "name": "Features: Built-in Cooler" }
+      ]
+    }
+  ]
+  
